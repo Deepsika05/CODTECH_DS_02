@@ -5,7 +5,7 @@ INTERN ID : CT08FOT
 DOMAIN    : DATA SCIENCE 
 DURATION  : 4 WEEKS
 MENTOR    : NEELA SANTOSH
-Deep learning for image recognition
+This task involves creating a model using Deep learning for image recognition and it gives you a solid foundation for building a CNN-based image recognition model with data augmentation, transfer learning, and evaluation.
 
 import tensorflow as tf
 from tensorflow.keras import datasets, layers, models
